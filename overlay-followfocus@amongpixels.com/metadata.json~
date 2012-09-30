@@ -1,8 +1,0 @@
-{
-    "shell-version": ["3.4.1"], 
-    "uuid": "overlay-followfocus@amongpixels.com", 
-    "name": "Overlay Followfocus", 
-    "description": "Focus follows mouse on overlay overview",
-    "version" : 1,
-    "url": "", 
-}
