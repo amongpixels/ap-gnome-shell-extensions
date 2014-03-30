@@ -5,7 +5,8 @@
   "shell-version": [
     "3.4", 
     "3.6",
-    "3.8"
+    "3.8",
+    "3.10"
   ], 
   "url": "https://github.com/amongpixels/ap-gnome-shell-extensions/tree/master/overlay-followfocus@amongpixels.com", 
   "uuid": "overlay-followfocus@amongpixels.com", 
